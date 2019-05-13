@@ -1,0 +1,8 @@
+2019-04-19 15:17:00,055 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-19 15:17:05,001 - framework - INFO - 施工调度系统登录正常
+2019-04-19 15:17:10,167 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-19 15:17:15,410 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-19 15:17:20,809 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-19 15:17:28,521 - framework - INFO - 施工调度系统登录失败验证正常
+2019-04-19 15:17:36,869 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-19 15:17:42,085 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]

@@ -1,0 +1,4 @@
+1536921768253	geckodriver	INFO	geckodriver 0.19.0
+1536921768267	geckodriver	INFO	Listening on 127.0.0.1:37773
+1536921768887	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.vHpcvlN1Y72G"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0

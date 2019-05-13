@@ -1,0 +1,1638 @@
+1536917936590	geckodriver	INFO	geckodriver 0.19.0
+1536917936618	geckodriver	INFO	Listening on 127.0.0.1:12129
+1536917937307	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.FzIyXChPEHd6"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536917944097	Marionette	INFO	Listening on port 12137
+1536917944356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536917961289	Marionette	INFO	New connections will no longer be accepted
+1536917961848	geckodriver	INFO	geckodriver 0.19.0
+1536917961878	geckodriver	INFO	Listening on 127.0.0.1:12468
+1536917962464	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.pEmmEmX0PaZW"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536917966720	Marionette	INFO	Listening on port 12473
+1536917966928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536917974884	Marionette	INFO	New connections will no longer be accepted
+1536917975553	geckodriver	INFO	geckodriver 0.19.0
+1536917975572	geckodriver	INFO	Listening on 127.0.0.1:12724
+1536917976177	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.1ahoZNmexYKd"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536917980319	Marionette	INFO	Listening on port 12735
+1536917980605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536917986973	Marionette	INFO	New connections will no longer be accepted
+1536917987419	geckodriver	INFO	geckodriver 0.19.0
+1536917987439	geckodriver	INFO	Listening on 127.0.0.1:12959
+1536917988043	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.s9bllBHHNDaT"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536917992365	Marionette	INFO	Listening on port 12965
+1536917992803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536917998823	Marionette	INFO	New connections will no longer be accepted
+1536917999354	geckodriver	INFO	geckodriver 0.19.0
+1536917999405	geckodriver	INFO	Listening on 127.0.0.1:13214
+1536918000029	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.D9uL5FvuzhLP"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536918004325	Marionette	INFO	Listening on port 13225
+1536918004800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536918392987	geckodriver	INFO	geckodriver 0.19.0
+1536918393007	geckodriver	INFO	Listening on 127.0.0.1:14979
+1536918393652	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.ElKzOMvxEKh5"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536918397791	Marionette	INFO	Listening on port 14986
+1536918398013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536918462809	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536918550290	Marionette	INFO	Ceased listening
+918468080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536918532621	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536918548921	Marionette	INFO	Ceased listening
+warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536918546777	Marionette	INFO	Ceased listening
+1536918797948	geckodriver	INFO	geckodriver 0.19.0
+1536918797967	geckodriver	INFO	Listening on 127.0.0.1:17788
+1536918798595	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.PusPIQK6Kfax"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536918802756	Marionette	INFO	Listening on port 17804
+1536918802953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536918853414	Marionette	INFO	Ceased listening
+1536918923440	geckodriver	INFO	geckodriver 0.19.0
+1536918923459	geckodriver	INFO	Listening on 127.0.0.1:18563
+1536918924083	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.0dSTIPPPTQYk"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536918928487	Marionette	INFO	Listening on port 18571
+1536918928944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536918993400	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536919104976	Marionette	INFO	Ceased listening
+warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536919047592	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536919103980	Marionette	INFO	Ceased listening
+warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536919106021	Marionette	INFO	Ceased listening
+919100108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 3 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+_fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:458:19
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 3 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+_fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:458:19
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+Line: 1281, column: 20
+1536919163906	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1536919163910	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536919164391	Marionette	INFO	Ceased listening
+1536919246905	geckodriver	INFO	geckodriver 0.19.0
+1536919246926	geckodriver	INFO	Listening on 127.0.0.1:21227
+1536919247550	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.xt66Z0BiGwsr"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536919252370	Marionette	INFO	Listening on port 21242
+1536919252816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536919316939	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536919438892	Marionette	INFO	Ceased listening
+919344087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536919407751	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536920342132	Marionette	INFO	Ceased listening
+ate sourceMappingURL pragmas is deprecated. Use //# instead
+1536919506343	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536919548390	Marionette	INFO	Ceased listening
+1536919665501	geckodriver	INFO	geckodriver 0.19.0
+1536919665521	geckodriver	INFO	Listening on 127.0.0.1:24637
+1536919666157	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.7QXobMrq5Bvr"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536919670157	Marionette	INFO	Listening on port 24648
+1536919670459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536919734883	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536920108625	Marionette	INFO	Ceased listening
+1536920162098	geckodriver	INFO	geckodriver 0.19.0
+1536920162114	geckodriver	INFO	Listening on 127.0.0.1:28247
+1536920162837	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.2Daqz94PnpN3"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536920166657	Marionette	INFO	Listening on port 28252
+1536920167155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536920231710	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536920342975	Marionette	INFO	Ceased listening
+920296018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.g1536920346049	Marionette	INFO	Listening on port 29789
+1536920346369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536920410921	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536920425000	Marionette	INFO	Ceased listening
+1536920756296	geckodriver	INFO	geckodriver 0.19.0
+1536920756310	geckodriver	INFO	Listening on 127.0.0.1:31809
+1536920756989	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.rgkiKFItU0xT"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536920759993	Marionette	INFO	Listening on port 31820
+1536920760229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536920825163	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536920856353	Marionette	INFO	Ceased listening
+warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.g1536920858938	Marionette	INFO	Listening on port 32747
+1536920859608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536920923902	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536920943070	Marionette	INFO	Ceased listening
+1536921008055	geckodriver	INFO	geckodriver 0.19.0
+1536921008069	geckodriver	INFO	Listening on 127.0.0.1:33703
+1536921008695	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.j3btHGqilHpH"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921011698	Marionette	INFO	Listening on port 33711
+1536921011890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536921077033	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536921420847	Marionette	INFO	Ceased listening
+1536921536625	geckodriver	INFO	geckodriver 0.19.0
+1536921536640	geckodriver	INFO	Listening on 127.0.0.1:36395
+1536921537282	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.3JyZ62UsDmbo"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921540398	Marionette	INFO	Listening on port 36402
+1536921540578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536921550534	Marionette	INFO	Ceased listening
+1536921600123	geckodriver	INFO	geckodriver 0.19.0
+1536921600138	geckodriver	INFO	Listening on 127.0.0.1:36811
+1536921600781	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.i91qtUWmRGGC"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921603494	Marionette	INFO	Listening on port 36816
+1536921603921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536921624566	Marionette	INFO	Ceased listening
+1536921706439	geckodriver	INFO	geckodriver 0.19.0
+1536921706454	geckodriver	INFO	Listening on 127.0.0.1:37392
+1536921707155	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.JISNUDGMchR7"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921710192	Marionette	INFO	Listening on port 37403
+1536921710389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536921773913	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1536921774230	Marionette	INFO	Ceased listening
+1536921777886	geckodriver	INFO	geckodriver 0.19.0
+1536921777899	geckodriver	INFO	Listening on 127.0.0.1:37882
+1536921778612	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.gb0nKJE3yMmi"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921781702	Marionette	INFO	Listening on port 37887
+1536921781840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536921795374	Marionette	INFO	New connections will no longer be accepted
+1536921795828	geckodriver	INFO	geckodriver 0.19.0
+1536921795840	geckodriver	INFO	Listening on 127.0.0.1:38153
+1536921796527	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.lbuZg7yHOZjk"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921799512	Marionette	INFO	Listening on port 38158
+1536921799725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536921804725	Marionette	INFO	New connections will no longer be accepted
+1536921805090	geckodriver	INFO	geckodriver 0.19.0
+1536921805104	geckodriver	INFO	Listening on 127.0.0.1:38337
+1536921805700	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.xPvD7aYy0MRr"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921808793	Marionette	INFO	Listening on port 38342
+1536921809054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536921812527	Marionette	INFO	New connections will no longer be accepted
+1536921812877	geckodriver	INFO	geckodriver 0.19.0
+1536921812892	geckodriver	INFO	Listening on 127.0.0.1:38516
+1536921813574	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.p8UNZFLHcBN5"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921816605	Marionette	INFO	Listening on port 38521
+1536921816797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536921822738	Marionette	INFO	New connections will no longer be accepted
+1536921823105	geckodriver	INFO	geckodriver 0.19.0
+1536921823118	geckodriver	INFO	Listening on 127.0.0.1:38728
+1536921823718	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.IedYijFRwEv4"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921826713	Marionette	INFO	Listening on port 38733
+1536921826935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536921856815	Marionette	INFO	New connections will no longer be accepted
+1536921857223	geckodriver	INFO	geckodriver 0.19.0
+1536921857236	geckodriver	INFO	Listening on 127.0.0.1:39035
+1536921857837	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.p1xOj46OgkMP"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536921860890	Marionette	INFO	Listening on port 39040
+1536921861053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536921871764	Marionette	INFO	New connections will no longer be accepted
+1536922062854	geckodriver	INFO	geckodriver 0.19.0
+1536922062870	geckodriver	INFO	Listening on 127.0.0.1:39977
+1536922063488	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.J1d5LAx8BkxR"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922066593	Marionette	INFO	Listening on port 39982
+1536922066748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922080351	Marionette	INFO	New connections will no longer be accepted
+1536922080765	geckodriver	INFO	geckodriver 0.19.0
+1536922080780	geckodriver	INFO	Listening on 127.0.0.1:40279
+1536922081408	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.NRwqOq9NCWxW"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922084516	Marionette	INFO	Listening on port 40284
+1536922084732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922089520	Marionette	INFO	New connections will no longer be accepted
+1536922089939	geckodriver	INFO	geckodriver 0.19.0
+1536922089952	geckodriver	INFO	Listening on 127.0.0.1:40464
+1536922090541	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.vXukhCGPqeer"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922093582	Marionette	INFO	Listening on port 40469
+1536922093769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922097364	Marionette	INFO	New connections will no longer be accepted
+1536922097706	geckodriver	INFO	geckodriver 0.19.0
+1536922097721	geckodriver	INFO	Listening on 127.0.0.1:40646
+1536922098318	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.6tmSwKlKSdt6"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922101323	Marionette	INFO	Listening on port 40651
+1536922101569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922107406	Marionette	INFO	New connections will no longer be accepted
+1536922107756	geckodriver	INFO	geckodriver 0.19.0
+1536922107771	geckodriver	INFO	Listening on 127.0.0.1:40859
+1536922108365	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.UcNyuhunzIDH"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922111375	Marionette	INFO	Listening on port 40867
+1536922111624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922141948	Marionette	INFO	New connections will no longer be accepted
+1536922142338	geckodriver	INFO	geckodriver 0.19.0
+1536922142352	geckodriver	INFO	Listening on 127.0.0.1:41171
+1536922142987	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.NYc3SAMfglV1"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922145973	Marionette	INFO	Listening on port 41182
+1536922146198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922157184	Marionette	INFO	New connections will no longer be accepted
+1536922472456	geckodriver	INFO	geckodriver 0.19.0
+1536922472474	geckodriver	INFO	Listening on 127.0.0.1:42811
+1536922473068	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.of2HRRAkjTdT"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922476296	Marionette	INFO	Listening on port 42816
+1536922477321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922490551	Marionette	INFO	New connections will no longer be accepted
+1536922490934	geckodriver	INFO	geckodriver 0.19.0
+1536922490948	geckodriver	INFO	Listening on 127.0.0.1:43111
+1536922491608	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.HMrIZvGMjBoS"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922494555	Marionette	INFO	Listening on port 43119
+1536922494839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922499688	Marionette	INFO	New connections will no longer be accepted
+1536922500083	geckodriver	INFO	geckodriver 0.19.0
+1536922500101	geckodriver	INFO	Listening on 127.0.0.1:43343
+1536922500706	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.6IMBshLuZIgQ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922503694	Marionette	INFO	Listening on port 43348
+1536922503939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922507298	Marionette	INFO	New connections will no longer be accepted
+1536922507675	geckodriver	INFO	geckodriver 0.19.0
+1536922507690	geckodriver	INFO	Listening on 127.0.0.1:43503
+1536922508287	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.aMonZ4B3PShN"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922511304	Marionette	INFO	Listening on port 43510
+1536922511541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922517255	Marionette	INFO	New connections will no longer be accepted
+1536922517612	geckodriver	INFO	geckodriver 0.19.0
+1536922517623	geckodriver	INFO	Listening on 127.0.0.1:43713
+1536922518229	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.EMBAhpM3hitM"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922521242	Marionette	INFO	Listening on port 43718
+1536922521469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922551451	Marionette	INFO	New connections will no longer be accepted
+1536922551849	geckodriver	INFO	geckodriver 0.19.0
+1536922551863	geckodriver	INFO	Listening on 127.0.0.1:44053
+1536922552530	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.tteSfahZLSVN"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1536922555475	Marionette	INFO	Listening on port 44064
+1536922555735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536922566338	Marionette	INFO	New connections will no longer be accepted
+1537076647968	geckodriver	INFO	geckodriver 0.19.0
+1537076647968	geckodriver	INFO	Listening on 127.0.0.1:21826
+1537076648574	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Ii3MIm4ruWBn"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537076651840	Marionette	INFO	Listening on port 21831
+1537076652827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537076665733	Marionette	INFO	New connections will no longer be accepted
+1537076666084	geckodriver	INFO	geckodriver 0.19.0
+1537076666100	geckodriver	INFO	Listening on 127.0.0.1:22060
+1537076666789	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.v4hx2RaIZEYg"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537076669641	Marionette	INFO	Listening on port 22066
+1537076669974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://10.224.145.29:6100/wfm/jslib/jquery/jquery.js, line 965: TypeError: invalid 'in' operand obj
+1537076703067	Marionette	INFO	New connections will no longer be accepted
+1537076703391	geckodriver	INFO	geckodriver 0.19.0
+1537076703406	geckodriver	INFO	Listening on 127.0.0.1:22272
+1537076703988	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.nPIK1ZuMIutx"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537076706591	Marionette	INFO	Listening on port 22277
+1537076706731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537076709945	Marionette	INFO	New connections will no longer be accepted
+1537076710334	geckodriver	INFO	geckodriver 0.19.0
+1537076710350	geckodriver	INFO	Listening on 127.0.0.1:22416
+1537076710923	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.xnQXT7Ju5aWw"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537076713493	Marionette	INFO	Listening on port 22421
+1537076713668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537076718928	Marionette	INFO	New connections will no longer be accepted
+1537076719225	geckodriver	INFO	geckodriver 0.19.0
+1537076719225	geckodriver	INFO	Listening on 127.0.0.1:22590
+1537076719845	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.3rYlnzop6VWq"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537076722410	Marionette	INFO	Listening on port 22595
+1537076722577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537076751737	Marionette	INFO	New connections will no longer be accepted
+1537076752077	geckodriver	INFO	geckodriver 0.19.0
+1537076752093	geckodriver	INFO	Listening on 127.0.0.1:22790
+1537076752676	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.kBgQuHRtter5"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537076755225	Marionette	INFO	Listening on port 22795
+1537076755380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537076765344	Marionette	INFO	New connections will no longer be accepted
+1537077147825	geckodriver	INFO	geckodriver 0.19.0
+1537077147840	geckodriver	INFO	Listening on 127.0.0.1:23123
+1537077148434	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.ks8hmgNvEH7z"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537077151361	Marionette	INFO	Listening on port 23128
+1537077151605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/jsonview/converter-sniffer.js, line 68: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1537077153396	Marionette	INFO	Ceased listening
+1537077154822	geckodriver::marionette	ERROR	Failed to kill browser process
+1537077440672	geckodriver	INFO	geckodriver 0.19.0
+1537077440672	geckodriver	INFO	Listening on 127.0.0.1:24831
+1537077441291	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.jbYAcxPFJAWK"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537077444023	Marionette	INFO	Listening on port 24836
+1537077444463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537077457328	Marionette	INFO	New connections will no longer be accepted
+1537077457652	geckodriver	INFO	geckodriver 0.19.0
+1537077457667	geckodriver	INFO	Listening on 127.0.0.1:25044
+1537077458261	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.6qndS3HY594v"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537077460888	Marionette	INFO	Listening on port 25052
+1537077461029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537077465748	Marionette	INFO	New connections will no longer be accepted
+1537077466078	geckodriver	INFO	geckodriver 0.19.0
+1537077466093	geckodriver	INFO	Listening on 127.0.0.1:25220
+1537077466698	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.AMZRlObhKfxu"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537077469355	Marionette	INFO	Listening on port 25228
+1537077469841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537077472931	Marionette	INFO	New connections will no longer be accepted
+1537077473215	geckodriver	INFO	geckodriver 0.19.0
+1537077473231	geckodriver	INFO	Listening on 127.0.0.1:25366
+1537077473814	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.BUF40sGQsqjI"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537077476447	Marionette	INFO	Listening on port 25375
+1537077476584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537077481840	Marionette	INFO	New connections will no longer be accepted
+1537077482120	geckodriver	INFO	geckodriver 0.19.0
+1537077482136	geckodriver	INFO	Listening on 127.0.0.1:25540
+1537077482755	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.fKu6WBYzv1kQ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537077485326	Marionette	INFO	Listening on port 25545
+1537077485473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537077514806	Marionette	INFO	New connections will no longer be accepted
+1537077515152	geckodriver	INFO	geckodriver 0.19.0
+1537077515168	geckodriver	INFO	Listening on 127.0.0.1:25758
+1537077515753	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.rAF2AX0c9zYN"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537077518339	Marionette	INFO	Listening on port 25763
+1537077518497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537077528494	Marionette	INFO	New connections will no longer be accepted
+1537078945215	geckodriver	INFO	geckodriver 0.19.0
+1537078945231	geckodriver	INFO	Listening on 127.0.0.1:27844
+1537078945871	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.BLUWi60FS8JZ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537078948770	Marionette	INFO	Listening on port 27849
+1537078949061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537078962342	Marionette	INFO	New connections will no longer be accepted
+1537078962691	geckodriver	INFO	geckodriver 0.19.0
+1537078962706	geckodriver	INFO	Listening on 127.0.0.1:28112
+1537078963316	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.yHiM74W6A0hL"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537078965944	Marionette	INFO	Listening on port 28117
+1537078966143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537078970766	Marionette	INFO	New connections will no longer be accepted
+1537078971252	geckodriver	INFO	geckodriver 0.19.0
+1537078971268	geckodriver	INFO	Listening on 127.0.0.1:28267
+1537078971925	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.6E5LF3xaZl5x"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537078974539	Marionette	INFO	Listening on port 28272
+1537078974711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537078977893	Marionette	INFO	New connections will no longer be accepted
+1537078978177	geckodriver	INFO	geckodriver 0.19.0
+1537078978193	geckodriver	INFO	Listening on 127.0.0.1:28398
+1537078978786	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.AmBmyzP0l05e"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537078981390	Marionette	INFO	Listening on port 28403
+1537078981565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537078986867	Marionette	INFO	New connections will no longer be accepted
+1537078987151	geckodriver	INFO	geckodriver 0.19.0
+1537078987167	geckodriver	INFO	Listening on 127.0.0.1:28579
+1537078987776	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.PLtOcrt3Vxl1"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537078990379	Marionette	INFO	Listening on port 28584
+1537078990559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537079019756	Marionette	INFO	New connections will no longer be accepted
+1537079020104	geckodriver	INFO	geckodriver 0.19.0
+1537079020120	geckodriver	INFO	Listening on 127.0.0.1:28786
+1537079020713	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.W4RK7YcI28Gq"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537079023358	Marionette	INFO	Listening on port 28791
+1537079023862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537079034137	Marionette	INFO	New connections will no longer be accepted
+1537079262478	geckodriver	INFO	geckodriver 0.19.0
+1537079262494	geckodriver	INFO	Listening on 127.0.0.1:29880
+1537079263126	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.ZlWjdCv2DMdn"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537079265970	Marionette	INFO	Listening on port 29885
+1537079266294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537079279266	Marionette	INFO	New connections will no longer be accepted
+1537079279598	geckodriver	INFO	geckodriver 0.19.0
+1537079279613	geckodriver	INFO	Listening on 127.0.0.1:30124
+1537079280184	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.s346X8IGaMBl"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537079282881	Marionette	INFO	Listening on port 30129
+1537079283332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537079287834	Marionette	INFO	New connections will no longer be accepted
+1537079288255	geckodriver	INFO	geckodriver 0.19.0
+1537079288271	geckodriver	INFO	Listening on 127.0.0.1:30337
+1537079288920	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Nm32Az0Tto33"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537079291642	Marionette	INFO	Listening on port 30342
+1537079292078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537079295092	Marionette	INFO	New connections will no longer be accepted
+1537079295394	geckodriver	INFO	geckodriver 0.19.0
+1537079295394	geckodriver	INFO	Listening on 127.0.0.1:30453
+1537079295978	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.DFgGaT2pAJe6"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537079298687	Marionette	INFO	Listening on port 30458
+1537079299154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537079304314	Marionette	INFO	New connections will no longer be accepted
+1537079304626	geckodriver	INFO	geckodriver 0.19.0
+1537079304641	geckodriver	INFO	Listening on 127.0.0.1:30641
+1537079305275	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.CRhJjg8q4azz"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537079307960	Marionette	INFO	Listening on port 30652
+1537079308437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537079337723	Marionette	INFO	New connections will no longer be accepted
+1537079338100	geckodriver	INFO	geckodriver 0.19.0
+1537079338115	geckodriver	INFO	Listening on 127.0.0.1:30919
+1537079338693	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.bpS89eG6l8sX"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537079341437	Marionette	INFO	Listening on port 30924
+1537079341843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537079347567	Marionette	INFO	New connections will no longer be accepted
+1537080700336	geckodriver	INFO	geckodriver 0.19.0
+1537080700351	geckodriver	INFO	Listening on 127.0.0.1:34081
+1537080700959	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.OdDJrQeJHtDq"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537080703779	Marionette	INFO	Listening on port 34086
+1537080704115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537080717101	Marionette	INFO	New connections will no longer be accepted
+1537080717414	geckodriver	INFO	geckodriver 0.19.0
+1537080717430	geckodriver	INFO	Listening on 127.0.0.1:34298
+1537080718022	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.mOo6iyVuvtmD"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537080720933	Marionette	INFO	Listening on port 34303
+1537080721197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537080726169	Marionette	INFO	New connections will no longer be accepted
+1537080726564	geckodriver	INFO	geckodriver 0.19.0
+1537080726576	geckodriver	INFO	Listening on 127.0.0.1:34482
+1537080727224	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.gSBK3VOR4CvE"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537080729889	Marionette	INFO	Listening on port 34487
+1537080730381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537080733392	Marionette	INFO	New connections will no longer be accepted
+1537080733713	geckodriver	INFO	geckodriver 0.19.0
+1537080733713	geckodriver	INFO	Listening on 127.0.0.1:34603
+1537080734354	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.eiWjTVugBt7z"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537080737079	Marionette	INFO	Listening on port 34608
+1537080737527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537080742777	Marionette	INFO	New connections will no longer be accepted
+1537080743082	geckodriver	INFO	geckodriver 0.19.0
+1537080743097	geckodriver	INFO	Listening on 127.0.0.1:34772
+1537080743741	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.hHDGyDhH09JT"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537080746481	Marionette	INFO	Listening on port 34778
+1537080746890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537080776172	Marionette	INFO	New connections will no longer be accepted
+1537080776521	geckodriver	INFO	geckodriver 0.19.0
+1537080776537	geckodriver	INFO	Listening on 127.0.0.1:35003
+1537080777162	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.bsH1JWRAKsFK"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537080779931	Marionette	INFO	Listening on port 35008
+1537080780326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537080790783	Marionette	INFO	New connections will no longer be accepted
+1537170422555	geckodriver	INFO	geckodriver 0.19.0
+1537170422570	geckodriver	INFO	Listening on 127.0.0.1:6957
+1537170423226	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.4uiqywMz9Vi5"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537170426938	Marionette	INFO	Listening on port 6962
+1537170427603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537172739653	geckodriver	INFO	geckodriver 0.19.0
+1537172739668	geckodriver	INFO	Listening on 127.0.0.1:12035
+1537172740279	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.jaPcvEXYinud"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537172743338	Marionette	INFO	Listening on port 12043
+1537172743527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537172744131	geckodriver	INFO	geckodriver 0.19.0
+1537172744147	geckodriver	INFO	Listening on 127.0.0.1:12094
+1537172744734	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.dwCdheJHKRn9"
+1537172832004	geckodriver	INFO	geckodriver 0.19.0
+1537172832019	geckodriver	INFO	Listening on 127.0.0.1:12226
+1537172832601	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.ZqdStZRrXJ8n"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537172835601	Marionette	INFO	Listening on port 12231
+1537172835804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/jsonview/converter-sniffer.js, line 68: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1537172836349	geckodriver	INFO	geckodriver 0.19.0
+1537172836365	geckodriver	INFO	Listening on 127.0.0.1:12280
+1537172836957	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.NgY1Y8nFvSxe"
+1537363986752	geckodriver	INFO	geckodriver 0.19.0
+1537363986767	geckodriver	INFO	Listening on 127.0.0.1:7345
+1537363987392	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.FnSAXnnkd7s2"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537363992041	Marionette	INFO	Listening on port 7350
+1537363992227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364005363	Marionette	INFO	New connections will no longer be accepted
+1537364005720	geckodriver	INFO	geckodriver 0.19.0
+1537364005735	geckodriver	INFO	Listening on 127.0.0.1:7640
+1537364006335	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.iKZySd3VphMl"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364009164	Marionette	INFO	Listening on port 7646
+1537364009489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364016007	Marionette	INFO	New connections will no longer be accepted
+1537364016351	geckodriver	INFO	geckodriver 0.19.0
+1537364016366	geckodriver	INFO	Listening on 127.0.0.1:7883
+1537364016991	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.4BhzWMEmWNju"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364019923	Marionette	INFO	Listening on port 7888
+1537364020157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364023415	Marionette	INFO	New connections will no longer be accepted
+1537364023723	geckodriver	INFO	geckodriver 0.19.0
+1537364023738	geckodriver	INFO	Listening on 127.0.0.1:8011
+1537364024525	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.AUQft0bZaTVj"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364027470	Marionette	INFO	Listening on port 8016
+1537364027699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364033378	Marionette	INFO	New connections will no longer be accepted
+1537364033687	geckodriver	INFO	geckodriver 0.19.0
+1537364033687	geckodriver	INFO	Listening on 127.0.0.1:8200
+1537364034331	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.6Uf95RDtGauN"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364037293	Marionette	INFO	Listening on port 8205
+1537364037546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364067748	Marionette	INFO	New connections will no longer be accepted
+1537364068102	geckodriver	INFO	geckodriver 0.19.0
+1537364068118	geckodriver	INFO	Listening on 127.0.0.1:8510
+1537364068696	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.rbLKUgIHq9RS"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364071594	Marionette	INFO	Listening on port 8518
+1537364071871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364082164	Marionette	INFO	New connections will no longer be accepted
+1537364241665	geckodriver	INFO	geckodriver 0.19.0
+1537364241680	geckodriver	INFO	Listening on 127.0.0.1:9275
+1537364242282	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Q0cL05olvOar"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364245461	Marionette	INFO	Listening on port 9280
+1537364245659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364258989	Marionette	INFO	New connections will no longer be accepted
+1537364259338	geckodriver	INFO	geckodriver 0.19.0
+1537364259354	geckodriver	INFO	Listening on 127.0.0.1:9541
+1537364259936	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.WVxOcTIB0uNf"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364262787	Marionette	INFO	Listening on port 9546
+1537364263087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364269987	Marionette	INFO	New connections will no longer be accepted
+1537364270391	geckodriver	INFO	geckodriver 0.19.0
+1537364270404	geckodriver	INFO	Listening on 127.0.0.1:9756
+1537364270982	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.cMIUHb2AVL6W"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364273922	Marionette	INFO	Listening on port 9761
+1537364274138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364277428	Marionette	INFO	New connections will no longer be accepted
+1537364277743	geckodriver	INFO	geckodriver 0.19.0
+1537364277758	geckodriver	INFO	Listening on 127.0.0.1:9903
+1537364278366	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.U4Tnmw63vQj9"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364281261	Marionette	INFO	Listening on port 9908
+1537364281547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364286981	Marionette	INFO	New connections will no longer be accepted
+1537364287372	geckodriver	INFO	geckodriver 0.19.0
+1537364287388	geckodriver	INFO	Listening on 127.0.0.1:10093
+1537364287981	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.9p9bxt8MWdah"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364290847	Marionette	INFO	Listening on port 10098
+1537364291171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364321206	Marionette	INFO	New connections will no longer be accepted
+1537364321555	geckodriver	INFO	geckodriver 0.19.0
+1537364321571	geckodriver	INFO	Listening on 127.0.0.1:10380
+1537364322157	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.KXI0os846Q3U"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537364325057	Marionette	INFO	Listening on port 10385
+1537364325320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537364335486	Marionette	INFO	New connections will no longer be accepted
+1537365064836	geckodriver	INFO	geckodriver 0.19.0
+1537365064852	geckodriver	INFO	Listening on 127.0.0.1:13549
+1537365065454	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.nuOVRrECDqY9"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365068152	Marionette	INFO	Listening on port 13554
+1537365068622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365081632	Marionette	INFO	New connections will no longer be accepted
+1537365081955	geckodriver	INFO	geckodriver 0.19.0
+1537365081971	geckodriver	INFO	Listening on 127.0.0.1:13767
+1537365082564	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.YxkP12bWSCQc"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365085573	Marionette	INFO	Listening on port 13772
+1537365085806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365092619	Marionette	INFO	New connections will no longer be accepted
+1537365092959	geckodriver	INFO	geckodriver 0.19.0
+1537365092974	geckodriver	INFO	Listening on 127.0.0.1:13973
+1537365093580	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.v1c5dy6bWW0k"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365096631	Marionette	INFO	Listening on port 13978
+1537365096832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365100378	Marionette	INFO	New connections will no longer be accepted
+1537365100699	geckodriver	INFO	geckodriver 0.19.0
+1537365100699	geckodriver	INFO	Listening on 127.0.0.1:14121
+1537365101292	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.pKv8VpELOYSZ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365104347	Marionette	INFO	Listening on port 14126
+1537365104559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365110393	Marionette	INFO	New connections will no longer be accepted
+1537365110655	geckodriver	INFO	geckodriver 0.19.0
+1537365110671	geckodriver	INFO	Listening on 127.0.0.1:14314
+1537365111288	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.wUR2IBBisudg"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365114137	Marionette	INFO	Listening on port 14319
+1537365114452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365144189	Marionette	INFO	New connections will no longer be accepted
+1537365144486	geckodriver	INFO	geckodriver 0.19.0
+1537365144502	geckodriver	INFO	Listening on 127.0.0.1:14562
+1537365145089	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.L0sDGPvmKei6"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365147856	Marionette	INFO	Listening on port 14567
+1537365148238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365158332	Marionette	INFO	New connections will no longer be accepted
+1537365169443	geckodriver	INFO	geckodriver 0.19.0
+1537365169443	geckodriver	INFO	Listening on 127.0.0.1:14806
+1537365170057	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.U4LEhz2tA2co"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365173066	Marionette	INFO	Listening on port 14811
+1537365173247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365186496	Marionette	INFO	New connections will no longer be accepted
+1537365186807	geckodriver	INFO	geckodriver 0.19.0
+1537365186823	geckodriver	INFO	Listening on 127.0.0.1:15043
+1537365187409	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.nyyW1rO3oiTD"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365190415	Marionette	INFO	Listening on port 15048
+1537365190661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365197321	Marionette	INFO	New connections will no longer be accepted
+1537365197676	geckodriver	INFO	geckodriver 0.19.0
+1537365197692	geckodriver	INFO	Listening on 127.0.0.1:15239
+1537365198269	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.husnOeaszkOJ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365201086	Marionette	INFO	Listening on port 15244
+1537365201436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365204574	Marionette	INFO	New connections will no longer be accepted
+1537365204923	geckodriver	INFO	geckodriver 0.19.0
+1537365204939	geckodriver	INFO	Listening on 127.0.0.1:15381
+1537365205522	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.9oIq09kSBkf3"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365208349	Marionette	INFO	Listening on port 15386
+1537365208726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365214074	Marionette	INFO	New connections will no longer be accepted
+1537365214439	geckodriver	INFO	geckodriver 0.19.0
+1537365214452	geckodriver	INFO	Listening on 127.0.0.1:15628
+1537365215036	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.F51nImMLyWp7"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365218033	Marionette	INFO	Listening on port 15633
+1537365218217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365248212	Marionette	INFO	New connections will no longer be accepted
+1537365248541	geckodriver	INFO	geckodriver 0.19.0
+1537365248557	geckodriver	INFO	Listening on 127.0.0.1:15870
+1537365249151	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.GRXQvr3Fs7TI"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365252116	Marionette	INFO	Listening on port 15878
+1537365252313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365262351	Marionette	INFO	New connections will no longer be accepted
+1537365351935	geckodriver	INFO	geckodriver 0.19.0
+1537365351951	geckodriver	INFO	Listening on 127.0.0.1:16198
+1537365352553	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.4VUwzkYPIZFt"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365355524	Marionette	INFO	Listening on port 16203
+1537365355753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365368767	Marionette	INFO	New connections will no longer be accepted
+1537365369176	geckodriver	INFO	geckodriver 0.19.0
+1537365369192	geckodriver	INFO	Listening on 127.0.0.1:16458
+1537365369777	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Fejf8muyofz9"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365372804	Marionette	INFO	Listening on port 16464
+1537365373022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365379653	Marionette	INFO	New connections will no longer be accepted
+1537365380005	geckodriver	INFO	geckodriver 0.19.0
+1537365380018	geckodriver	INFO	Listening on 127.0.0.1:16671
+1537365380627	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.bo6GSFpWyfoh"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365383435	Marionette	INFO	Listening on port 16679
+1537365383778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365386825	Marionette	INFO	New connections will no longer be accepted
+1537365387149	geckodriver	INFO	geckodriver 0.19.0
+1537365387164	geckodriver	INFO	Listening on 127.0.0.1:16815
+1537365387753	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.XlJYbioqIlHm"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365390737	Marionette	INFO	Listening on port 16823
+1537365390971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365396337	Marionette	INFO	New connections will no longer be accepted
+1537365396688	geckodriver	INFO	geckodriver 0.19.0
+1537365396702	geckodriver	INFO	Listening on 127.0.0.1:17000
+1537365397302	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.U8WH9uGdI3K2"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365400235	Marionette	INFO	Listening on port 17005
+1537365400527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365430195	Marionette	INFO	New connections will no longer be accepted
+1537365430634	geckodriver	INFO	geckodriver 0.19.0
+1537365430649	geckodriver	INFO	Listening on 127.0.0.1:17237
+1537365431280	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.zHxZYzqLqtte"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365434272	Marionette	INFO	Listening on port 17242
+1537365434509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365444884	Marionette	INFO	New connections will no longer be accepted
+1537365620954	geckodriver	INFO	geckodriver 0.19.0
+1537365620970	geckodriver	INFO	Listening on 127.0.0.1:17720
+1537365621579	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.a8zlZ1NzASls"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365624477	Marionette	INFO	Listening on port 17725
+1537365624795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365637870	Marionette	INFO	New connections will no longer be accepted
+1537365638287	geckodriver	INFO	geckodriver 0.19.0
+1537365638300	geckodriver	INFO	Listening on 127.0.0.1:17979
+1537365638888	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.2xgGelbQ5OpI"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365641626	Marionette	INFO	Listening on port 17984
+1537365642014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365648940	Marionette	INFO	New connections will no longer be accepted
+1537365649315	geckodriver	INFO	geckodriver 0.19.0
+1537365649329	geckodriver	INFO	Listening on 127.0.0.1:18166
+1537365649939	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.g4W189QLVmBM"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365652680	Marionette	INFO	Listening on port 18171
+1537365653102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365656178	Marionette	INFO	New connections will no longer be accepted
+1537365656564	geckodriver	INFO	geckodriver 0.19.0
+1537365656578	geckodriver	INFO	Listening on 127.0.0.1:18319
+1537365657150	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.3rJ2d96Uy71L"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365660200	Marionette	INFO	Listening on port 18327
+1537365660356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365665587	Marionette	INFO	New connections will no longer be accepted
+1537365665857	geckodriver	INFO	geckodriver 0.19.0
+1537365665873	geckodriver	INFO	Listening on 127.0.0.1:18511
+1537365666458	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.nAMGtb8XYflb"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365669143	Marionette	INFO	Listening on port 18543
+1537365669585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365698987	Marionette	INFO	New connections will no longer be accepted
+1537365699311	geckodriver	INFO	geckodriver 0.19.0
+1537365699325	geckodriver	INFO	Listening on 127.0.0.1:19023
+1537365699956	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.DllIPNVHEQIb"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365702677	Marionette	INFO	Listening on port 19028
+1537365703091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365713260	Marionette	INFO	New connections will no longer be accepted
+1537365794477	geckodriver	INFO	geckodriver 0.19.0
+1537365794477	geckodriver	INFO	Listening on 127.0.0.1:19367
+1537365795113	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.AprVX37TkU6c"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365798050	Marionette	INFO	Listening on port 19372
+1537365798310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365811311	Marionette	INFO	New connections will no longer be accepted
+1537365811656	geckodriver	INFO	geckodriver 0.19.0
+1537365811672	geckodriver	INFO	Listening on 127.0.0.1:19618
+1537365812276	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.L51WPr0eSOyu"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365815234	Marionette	INFO	Listening on port 19626
+1537365815488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365822152	Marionette	INFO	New connections will no longer be accepted
+1537365822510	geckodriver	INFO	geckodriver 0.19.0
+1537365822526	geckodriver	INFO	Listening on 127.0.0.1:19886
+1537365823127	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.pHmAT4nfX4lY"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365826452	Marionette	INFO	Listening on port 19891
+1537365827389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365830306	Marionette	INFO	New connections will no longer be accepted
+1537365830648	geckodriver	INFO	geckodriver 0.19.0
+1537365830648	geckodriver	INFO	Listening on 127.0.0.1:20059
+1537365831257	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.PZsJhi4YbLn2"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365834127	Marionette	INFO	Listening on port 20068
+1537365834449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365839706	Marionette	INFO	New connections will no longer be accepted
+1537365840092	geckodriver	INFO	geckodriver 0.19.0
+1537365840106	geckodriver	INFO	Listening on 127.0.0.1:20236
+1537365840715	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.3OZqDYnixRME"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365843655	Marionette	INFO	Listening on port 20241
+1537365843870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365873533	Marionette	INFO	New connections will no longer be accepted
+1537365873859	geckodriver	INFO	geckodriver 0.19.0
+1537365873875	geckodriver	INFO	Listening on 127.0.0.1:20490
+1537365874493	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Nuakooj6vyn3"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537365877338	Marionette	INFO	Listening on port 20499
+1537365877646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537365887908	Marionette	INFO	New connections will no longer be accepted
+1537366093248	geckodriver	INFO	geckodriver 0.19.0
+1537366093263	geckodriver	INFO	Listening on 127.0.0.1:20939
+1537366093882	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.wav4J1lYn6Pf"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537366096849	Marionette	INFO	Listening on port 20944
+1537366097097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537366110192	Marionette	INFO	New connections will no longer be accepted
+1537366110548	geckodriver	INFO	geckodriver 0.19.0
+1537366110563	geckodriver	INFO	Listening on 127.0.0.1:21216
+1537366111154	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.N83fZvA5jPBw"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537366113976	Marionette	INFO	Listening on port 21221
+1537366114329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537366120870	Marionette	INFO	New connections will no longer be accepted
+1537366121210	geckodriver	INFO	geckodriver 0.19.0
+1537366121226	geckodriver	INFO	Listening on 127.0.0.1:21423
+1537366121835	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.PKJMzLGfOXmE"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537366124677	Marionette	INFO	Listening on port 21428
+1537366125026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537366128269	Marionette	INFO	New connections will no longer be accepted
+1537366128590	geckodriver	INFO	geckodriver 0.19.0
+1537366128606	geckodriver	INFO	Listening on 127.0.0.1:21564
+1537366129228	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.rwrSyKQIcKKH"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537366132011	Marionette	INFO	Listening on port 21569
+1537366132374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537366137926	Marionette	INFO	New connections will no longer be accepted
+1537366138229	geckodriver	INFO	geckodriver 0.19.0
+1537366138244	geckodriver	INFO	Listening on 127.0.0.1:21755
+1537366138838	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.7AK1pmFeXY30"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537366141648	Marionette	INFO	Listening on port 21760
+1537366142008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537366171699	Marionette	INFO	New connections will no longer be accepted
+1537366172047	geckodriver	INFO	geckodriver 0.19.0
+1537366172060	geckodriver	INFO	Listening on 127.0.0.1:22003
+1537366172625	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.ByQ0yN5dPDlz"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537366175471	Marionette	INFO	Listening on port 22008
+1537366175778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537366186167	Marionette	INFO	New connections will no longer be accepted
+1537511153246	geckodriver	INFO	geckodriver 0.19.0
+1537511153261	geckodriver	INFO	Listening on 127.0.0.1:18298
+1537511153374	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Um2MY5c50fVF"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511156791	Marionette	INFO	Listening on port 18303
+1537511157645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537511392579	geckodriver	INFO	geckodriver 0.19.0
+1537511392579	geckodriver	INFO	Listening on 127.0.0.1:18511
+1537511393207	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.q9QKyB8zobIw"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511396017	Marionette	INFO	Listening on port 18516
+1537511396372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511409634	Marionette	INFO	New connections will no longer be accepted
+1537511409966	geckodriver	INFO	geckodriver 0.19.0
+1537511409981	geckodriver	INFO	Listening on 127.0.0.1:18746
+1537511410606	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.L8akDxXWvDQV"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511413347	Marionette	INFO	Listening on port 18751
+1537511413766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511420380	Marionette	INFO	New connections will no longer be accepted
+1537511420732	geckodriver	INFO	geckodriver 0.19.0
+1537511420739	geckodriver	INFO	Listening on 127.0.0.1:18963
+1537511421583	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.kI8w4P0g50nj"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511424552	Marionette	INFO	Listening on port 18968
+1537511424801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511428412	Marionette	INFO	New connections will no longer be accepted
+1537511428741	geckodriver	INFO	geckodriver 0.19.0
+1537511428757	geckodriver	INFO	Listening on 127.0.0.1:19089
+1537511429351	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.cn8e03QUje19"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511432267	Marionette	INFO	Listening on port 19094
+1537511432526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511438553	Marionette	INFO	New connections will no longer be accepted
+1537511438838	geckodriver	INFO	geckodriver 0.19.0
+1537511438842	geckodriver	INFO	Listening on 127.0.0.1:19259
+1537511439529	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.DU7FM7PFVxxD"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511442569	Marionette	INFO	Listening on port 19264
+1537511442772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511472685	Marionette	INFO	New connections will no longer be accepted
+1537511473006	geckodriver	INFO	geckodriver 0.19.0
+1537511473022	geckodriver	INFO	Listening on 127.0.0.1:19482
+1537511473633	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.JOw88wAS5bAc"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511476413	Marionette	INFO	Listening on port 19487
+1537511476808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511487745	Marionette	INFO	New connections will no longer be accepted
+1537511488100	geckodriver	INFO	geckodriver 0.19.0
+1537511488116	geckodriver	INFO	Listening on 127.0.0.1:19703
+1537511488712	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.zOLL0uGpo7ty"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511491483	Marionette	INFO	Listening on port 19708
+1537511491885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511505607	Marionette	INFO	New connections will no longer be accepted
+1537511505915	geckodriver	INFO	geckodriver 0.19.0
+1537511505931	geckodriver	INFO	Listening on 127.0.0.1:19892
+1537511506574	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Zieei2LYA77k"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511509257	Marionette	INFO	Listening on port 19897
+1537511509714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511543179	Marionette	INFO	New connections will no longer be accepted
+1537511543632	geckodriver	INFO	geckodriver 0.19.0
+1537511543663	geckodriver	INFO	Listening on 127.0.0.1:20097
+1537511544241	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.1VIx3HhtK2e4"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511547405	Marionette	INFO	Listening on port 20102
+1537511548530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511552004	Marionette	INFO	New connections will no longer be accepted
+1537511552271	geckodriver	INFO	geckodriver 0.19.0
+1537511552287	geckodriver	INFO	Listening on 127.0.0.1:20244
+1537511552912	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.lXa9tUgwqPIJ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511555552	Marionette	INFO	Listening on port 20249
+1537511555688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511560983	Marionette	INFO	New connections will no longer be accepted
+1537511561273	geckodriver	INFO	geckodriver 0.19.0
+1537511561289	geckodriver	INFO	Listening on 127.0.0.1:20403
+1537511561898	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.apktChBd5KZd"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511564402	Marionette	INFO	Listening on port 20408
+1537511564576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511593872	Marionette	INFO	New connections will no longer be accepted
+1537511594232	geckodriver	INFO	geckodriver 0.19.0
+1537511594248	geckodriver	INFO	Listening on 127.0.0.1:20651
+1537511594890	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.cKFAMrpdzjJ2"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537511597422	Marionette	INFO	Listening on port 20656
+1537511597602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537511607894	Marionette	INFO	New connections will no longer be accepted
+1537513478526	geckodriver	INFO	geckodriver 0.19.0
+1537513478542	geckodriver	INFO	Listening on 127.0.0.1:23857
+1537513479166	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.9qgwwOmsupIb"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513482021	Marionette	INFO	Listening on port 23862
+1537513482347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513495538	Marionette	INFO	New connections will no longer be accepted
+1537513495840	geckodriver	INFO	geckodriver 0.19.0
+1537513495856	geckodriver	INFO	Listening on 127.0.0.1:24121
+1537513496496	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.HxwbKy5blMt7"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513499051	Marionette	INFO	Listening on port 24126
+1537513499212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513507864	Marionette	INFO	New connections will no longer be accepted
+1537513508211	geckodriver	INFO	geckodriver 0.19.0
+1537513508226	geckodriver	INFO	Listening on 127.0.0.1:24329
+1537513508945	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.ZyTaKq7e9D8D"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513511508	Marionette	INFO	Listening on port 24334
+1537513511654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513514670	Marionette	INFO	New connections will no longer be accepted
+1537513514941	geckodriver	INFO	geckodriver 0.19.0
+1537513514941	geckodriver	INFO	Listening on 127.0.0.1:24445
+1537513515534	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.I4Oc4x5xAP6X"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513518078	Marionette	INFO	Listening on port 24450
+1537513518245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513523662	Marionette	INFO	New connections will no longer be accepted
+1537513523934	geckodriver	INFO	geckodriver 0.19.0
+1537513523949	geckodriver	INFO	Listening on 127.0.0.1:24621
+1537513524590	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.unjSp11h4kzl"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513527185	Marionette	INFO	Listening on port 24626
+1537513527323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513556770	Marionette	INFO	New connections will no longer be accepted
+1537513557169	geckodriver	INFO	geckodriver 0.19.0
+1537513557169	geckodriver	INFO	Listening on 127.0.0.1:24909
+1537513557767	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.YT7gpqtzLhw4"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513560567	Marionette	INFO	Listening on port 24914
+1537513560935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513571424	Marionette	INFO	New connections will no longer be accepted
+1537513705450	geckodriver	INFO	geckodriver 0.19.0
+1537513705466	geckodriver	INFO	Listening on 127.0.0.1:25249
+1537513706055	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.UsahoSrCk0j4"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513709125	Marionette	INFO	Listening on port 25254
+1537513709309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513722542	Marionette	INFO	New connections will no longer be accepted
+1537513722904	geckodriver	INFO	geckodriver 0.19.0
+1537513722935	geckodriver	INFO	Listening on 127.0.0.1:25438
+1537513723513	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.jnJEBwBzEQbS"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513726365	Marionette	INFO	Listening on port 25443
+1537513726657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513735417	Marionette	INFO	New connections will no longer be accepted
+1537513735749	geckodriver	INFO	geckodriver 0.19.0
+1537513735765	geckodriver	INFO	Listening on 127.0.0.1:25648
+1537513736343	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.RTOru5aIPuiP"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513739096	Marionette	INFO	Listening on port 25653
+1537513739507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513742598	Marionette	INFO	New connections will no longer be accepted
+1537513742894	geckodriver	INFO	geckodriver 0.19.0
+1537513742894	geckodriver	INFO	Listening on 127.0.0.1:25786
+1537513743488	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.CMRMTXNHQY18"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513746241	Marionette	INFO	Listening on port 25791
+1537513746638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513752228	Marionette	INFO	New connections will no longer be accepted
+1537513752611	geckodriver	INFO	geckodriver 0.19.0
+1537513752626	geckodriver	INFO	Listening on 127.0.0.1:25967
+1537513753217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Tzaa10a2ad4n"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513755881	Marionette	INFO	Listening on port 25972
+1537513756362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513785841	Marionette	INFO	New connections will no longer be accepted
+1537513786126	geckodriver	INFO	geckodriver 0.19.0
+1537513786142	geckodriver	INFO	Listening on 127.0.0.1:26199
+1537513786720	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.cAYJP4sHyR4a"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537513789311	Marionette	INFO	Listening on port 26205
+1537513789436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537513799685	Marionette	INFO	New connections will no longer be accepted
+1537514345947	geckodriver	INFO	geckodriver 0.19.0
+1537514345963	geckodriver	INFO	Listening on 127.0.0.1:27918
+1537514346556	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.OL1e8rK31wvQ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537514349483	Marionette	INFO	Listening on port 27923
+1537514349741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537514362875	Marionette	INFO	New connections will no longer be accepted
+1537514363181	geckodriver	INFO	geckodriver 0.19.0
+1537514363197	geckodriver	INFO	Listening on 127.0.0.1:28227
+1537514363806	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.aLVZV0M9fyMv"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537514366426	Marionette	INFO	Listening on port 28238
+1537514366559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537514375176	Marionette	INFO	New connections will no longer be accepted
+1537514375520	geckodriver	INFO	geckodriver 0.19.0
+1537514375520	geckodriver	INFO	Listening on 127.0.0.1:28487
+1537514376129	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.FvaZgN3n79DZ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537514378772	Marionette	INFO	Listening on port 28495
+1537514378980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537514382186	Marionette	INFO	New connections will no longer be accepted
+1537514382625	geckodriver	INFO	geckodriver 0.19.0
+1537514382645	geckodriver	INFO	Listening on 127.0.0.1:28662
+1537514383228	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.HJ0yqMfN6Ec8"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537514385956	Marionette	INFO	Listening on port 28670
+1537514386394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537514391585	Marionette	INFO	New connections will no longer be accepted
+1537514391841	geckodriver	INFO	geckodriver 0.19.0
+1537514391856	geckodriver	INFO	Listening on 127.0.0.1:28890
+1537514392450	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.ZrzRvnWKG1wD"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537514395203	Marionette	INFO	Listening on port 28895
+1537514395597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537514425029	Marionette	INFO	New connections will no longer be accepted
+1537514425357	geckodriver	INFO	geckodriver 0.19.0
+1537514425373	geckodriver	INFO	Listening on 127.0.0.1:29343
+1537514425951	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.TskVVU6o8ey7"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537514428843	Marionette	INFO	Listening on port 29351
+1537514429145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537514439671	Marionette	INFO	New connections will no longer be accepted
+1537517899911	geckodriver	INFO	geckodriver 0.19.0
+1537517899927	geckodriver	INFO	Listening on 127.0.0.1:35668
+1537517900524	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.n5Lc6WSQxZ32"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537517903748	Marionette	INFO	Listening on port 35673
+1537517904786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537517917661	Marionette	INFO	New connections will no longer be accepted
+1537517918004	geckodriver	INFO	geckodriver 0.19.0
+1537517918021	geckodriver	INFO	Listening on 127.0.0.1:35927
+1537517918616	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.KexebmZX66ct"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537517921411	Marionette	INFO	Listening on port 35932
+1537517921769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537517930314	Marionette	INFO	New connections will no longer be accepted
+1537517930645	geckodriver	INFO	geckodriver 0.19.0
+1537517930660	geckodriver	INFO	Listening on 127.0.0.1:36170
+1537517931278	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Id1RZnn2d3Nq"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537517934126	Marionette	INFO	Listening on port 36175
+1537517934437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537517937407	Marionette	INFO	New connections will no longer be accepted
+1537517937671	geckodriver	INFO	geckodriver 0.19.0
+1537517937686	geckodriver	INFO	Listening on 127.0.0.1:36316
+1537517938281	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.n32eSTFyEREj"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537517941176	Marionette	INFO	Listening on port 36327
+1537517941446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537517946746	Marionette	INFO	New connections will no longer be accepted
+1537517947064	geckodriver	INFO	geckodriver 0.19.0
+1537517947080	geckodriver	INFO	Listening on 127.0.0.1:36496
+1537517947656	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.QtoIGBisEMdn"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537517950564	Marionette	INFO	Listening on port 36501
+1537517950805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537517980418	Marionette	INFO	New connections will no longer be accepted
+1537517980738	geckodriver	INFO	geckodriver 0.19.0
+1537517980754	geckodriver	INFO	Listening on 127.0.0.1:36790
+1537517981348	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.f4OV034xD89H"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537517984112	Marionette	INFO	Listening on port 36800
+1537517984490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537517994867	Marionette	INFO	New connections will no longer be accepted
+1537518186915	geckodriver	INFO	geckodriver 0.19.0
+1537518186931	geckodriver	INFO	Listening on 127.0.0.1:37530
+1537518187553	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.CYbosxUqprxJ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518190376	Marionette	INFO	Listening on port 37538
+1537518190720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518203885	Marionette	INFO	New connections will no longer be accepted
+1537518204234	geckodriver	INFO	geckodriver 0.19.0
+1537518204250	geckodriver	INFO	Listening on 127.0.0.1:37795
+1537518204828	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.eQBggVnCzN7n"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518207648	Marionette	INFO	Listening on port 37800
+1537518207985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518216675	Marionette	INFO	New connections will no longer be accepted
+1537518217042	geckodriver	INFO	geckodriver 0.19.0
+1537518217056	geckodriver	INFO	Listening on 127.0.0.1:38026
+1537518217640	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.IF0DUPODG3yN"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518220461	Marionette	INFO	Listening on port 38032
+1537518220823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518223930	Marionette	INFO	New connections will no longer be accepted
+1537518224287	geckodriver	INFO	geckodriver 0.19.0
+1537518224302	geckodriver	INFO	Listening on 127.0.0.1:38180
+1537518224880	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Z65bmkBEz41N"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518227718	Marionette	INFO	Listening on port 38185
+1537518228047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518233630	Marionette	INFO	New connections will no longer be accepted
+1537518233910	geckodriver	INFO	geckodriver 0.19.0
+1537518233926	geckodriver	INFO	Listening on 127.0.0.1:38394
+1537518234594	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.3NFMwKCQg2kw"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518237414	Marionette	INFO	Listening on port 38399
+1537518237767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518267273	Marionette	INFO	New connections will no longer be accepted
+1537518267586	geckodriver	INFO	geckodriver 0.19.0
+1537518267601	geckodriver	INFO	Listening on 127.0.0.1:38628
+1537518268252	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.3NYrXzTxzPOM"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518270997	Marionette	INFO	Listening on port 38633
+1537518271425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518281618	Marionette	INFO	New connections will no longer be accepted
+1537518874466	geckodriver	INFO	geckodriver 0.19.0
+1537518874513	geckodriver	INFO	Listening on 127.0.0.1:39443
+1537518875076	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.C3NRGcS4mZvU"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518877908	Marionette	INFO	Listening on port 39448
+1537518878243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518891286	Marionette	INFO	New connections will no longer be accepted
+1537518891616	geckodriver	INFO	geckodriver 0.19.0
+1537518891632	geckodriver	INFO	Listening on 127.0.0.1:39696
+1537518892239	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.w9n28XqIMENR"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518895300	Marionette	INFO	Listening on port 39701
+1537518895493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518904192	Marionette	INFO	New connections will no longer be accepted
+1537518904540	geckodriver	INFO	geckodriver 0.19.0
+1537518904555	geckodriver	INFO	Listening on 127.0.0.1:39932
+1537518905139	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.9D1WON8UWUHT"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518908064	Marionette	INFO	Listening on port 39937
+1537518908291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518911493	Marionette	INFO	New connections will no longer be accepted
+1537518911809	geckodriver	INFO	geckodriver 0.19.0
+1537518911825	geckodriver	INFO	Listening on 127.0.0.1:40058
+1537518912426	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.eKzf1vOiEjat"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518915359	Marionette	INFO	Listening on port 40066
+1537518915621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518920984	Marionette	INFO	New connections will no longer be accepted
+1537518921282	geckodriver	INFO	geckodriver 0.19.0
+1537518921298	geckodriver	INFO	Listening on 127.0.0.1:40253
+1537518921907	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.cgKC8WI9hhCl"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518924770	Marionette	INFO	Listening on port 40258
+1537518925079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518954688	Marionette	INFO	New connections will no longer be accepted
+1537518955037	geckodriver	INFO	geckodriver 0.19.0
+1537518955048	geckodriver	INFO	Listening on 127.0.0.1:40521
+1537518955690	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.UPraZcfHINJf"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537518958625	Marionette	INFO	Listening on port 40526
+1537518958926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537518969157	Marionette	INFO	New connections will no longer be accepted
+1537522058914	geckodriver	INFO	geckodriver 0.19.0
+1537522058929	geckodriver	INFO	Listening on 127.0.0.1:44051
+1537522059536	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.sdGMbVwZy9fD"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537522062561	Marionette	INFO	Listening on port 44056
+1537522062851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537522076089	Marionette	INFO	New connections will no longer be accepted
+1537522076431	geckodriver	INFO	geckodriver 0.19.0
+1537522076431	geckodriver	INFO	Listening on 127.0.0.1:44316
+1537522077024	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.eMrSd5kYuf6P"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537522079749	Marionette	INFO	Listening on port 44321
+1537522080196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537522088695	Marionette	INFO	New connections will no longer be accepted
+1537522089048	geckodriver	INFO	geckodriver 0.19.0
+1537522089048	geckodriver	INFO	Listening on 127.0.0.1:44526
+1537522089647	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.Jpvf4uizNZnX"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537522092369	Marionette	INFO	Listening on port 44531
+1537522092802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537522095843	Marionette	INFO	New connections will no longer be accepted
+1537522096154	geckodriver	INFO	geckodriver 0.19.0
+1537522096169	geckodriver	INFO	Listening on 127.0.0.1:44672
+1537522096732	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.h36STie2e0hL"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537522099537	Marionette	INFO	Listening on port 44677
+1537522099908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537522105224	Marionette	INFO	New connections will no longer be accepted
+1537522105553	geckodriver	INFO	geckodriver 0.19.0
+1537522105568	geckodriver	INFO	Listening on 127.0.0.1:44834
+1537522106162	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.MdDLFdov7jzz"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537522108899	Marionette	INFO	Listening on port 44839
+1537522109350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537522139107	Marionette	INFO	New connections will no longer be accepted
+1537522139444	geckodriver	INFO	geckodriver 0.19.0
+1537522139444	geckodriver	INFO	Listening on 127.0.0.1:45052
+1537522140053	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.QEIotwKo0jER"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537522142753	Marionette	INFO	Listening on port 45057
+1537522143195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.224.145.29:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537522153379	Marionette	INFO	New connections will no longer be accepted
+1537596927455	geckodriver	INFO	geckodriver 0.19.0
+1537596927487	geckodriver	INFO	Listening on 127.0.0.1:9025
+1537596928102	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.HYWceVNnqoYF"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537596931210	Marionette	INFO	Listening on port 9030
+1537596931461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537596944751	Marionette	INFO	New connections will no longer be accepted
+1537596945073	geckodriver	INFO	geckodriver 0.19.0
+1537596945089	geckodriver	INFO	Listening on 127.0.0.1:9303
+1537596945683	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.teHu8Ls3H3JH"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537596948214	Marionette	INFO	Listening on port 9309
+1537596948450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537596957039	Marionette	INFO	New connections will no longer be accepted
+1537596957367	geckodriver	INFO	geckodriver 0.19.0
+1537596957383	geckodriver	INFO	Listening on 127.0.0.1:9527
+1537596958032	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.I4zUWMcjsmLL"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537596960535	Marionette	INFO	Listening on port 9532
+1537596960743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537596963876	Marionette	INFO	New connections will no longer be accepted
+1537596964173	geckodriver	INFO	geckodriver 0.19.0
+1537596964188	geckodriver	INFO	Listening on 127.0.0.1:9662
+1537596964766	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.njA7O1f33f1V"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537596967406	Marionette	INFO	Listening on port 9667
+1537596967620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537596972985	Marionette	INFO	New connections will no longer be accepted
+1537596973273	geckodriver	INFO	geckodriver 0.19.0
+1537596973289	geckodriver	INFO	Listening on 127.0.0.1:9832
+1537596973867	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.fwa9tabdOpi8"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537596976385	Marionette	INFO	Listening on port 9837
+1537596976630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537597005939	Marionette	INFO	New connections will no longer be accepted
+1537597006255	geckodriver	INFO	geckodriver 0.19.0
+1537597006270	geckodriver	INFO	Listening on 127.0.0.1:10089
+1537597006848	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.vsuqf2srQTYc"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537597009602	Marionette	INFO	Listening on port 10094
+1537597010021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537597020144	Marionette	INFO	New connections will no longer be accepted
+1537597020473	geckodriver	INFO	geckodriver 0.19.0
+1537597020489	geckodriver	INFO	Listening on 127.0.0.1:10315
+1537597021054	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.EoZND4P6gC0r"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537597023638	Marionette	INFO	Listening on port 10320
+1537597023873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537597034137	Marionette	INFO	New connections will no longer be accepted
+1537597034489	geckodriver	INFO	geckodriver 0.19.0
+1537597034505	geckodriver	INFO	Listening on 127.0.0.1:10534
+1537597035083	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.AeaTG379xUQm"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537597037567	Marionette	INFO	Listening on port 10539
+1537597037824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537597048020	Marionette	INFO	New connections will no longer be accepted
+1537597048351	geckodriver	INFO	geckodriver 0.19.0
+1537597048351	geckodriver	INFO	Listening on 127.0.0.1:10731
+1537597048944	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.j6N7VwcYWUNT"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537597051557	Marionette	INFO	Listening on port 10736
+1537597051789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537597084850	Marionette	INFO	New connections will no longer be accepted
+1537597085126	geckodriver	INFO	geckodriver 0.19.0
+1537597085141	geckodriver	INFO	Listening on 127.0.0.1:10949
+1537597085735	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.a08i7ZVJuMPv"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537597088273	Marionette	INFO	Listening on port 10954
+1537597088492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537597098672	Marionette	INFO	New connections will no longer be accepted
+1537597266797	geckodriver	INFO	geckodriver 0.19.0
+1537597266813	geckodriver	INFO	Listening on 127.0.0.1:11591
+1537597267453	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.T07qwhZOMZ3c"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1537597270016	Marionette	INFO	Listening on port 11596
+1537597270209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.4.61.80:6100/wfm/plugins/main/index_v3/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537597291130	geckodriver	INFO	geckodriver 0.19.0
+1537597291145	geckodriver	INFO	Listening on 127.0.0.1:11809
+1537597291770	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.vSFTXbH8GSuK"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1550020843646	geckodriver	INFO	geckodriver 0.19.0
+1550020843677	geckodriver	INFO	Listening on 127.0.0.1:31868
+1550020844271	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.EpMNIb9iW7oG"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1550020847919	Marionette	INFO	Listening on port 31873
+1550020848574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://172.30.197.152:38080/ucas/js/jquery.js, line 19: unreachable code after return statement
+1550020883710	Marionette	INFO	New connections will no longer be accepted
+1550112339110	geckodriver	INFO	geckodriver 0.19.0
+1550112339145	geckodriver	INFO	Listening on 127.0.0.1:3009
+1550112339775	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.gvaP9oeQpITf"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1550112344248	Marionette	INFO	Listening on port 3014
+1550112344451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://172.30.197.152:38080/ucas/js/jquery.js, line 19: unreachable code after return statement
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 2955: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1550112385526	Marionette	INFO	New connections will no longer be accepted
+1550112385910	geckodriver	INFO	geckodriver 0.19.0
+1550112385921	geckodriver	INFO	Listening on 127.0.0.1:3239
+1550112386522	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\niugf\\AppData\\Local\\Temp\\rust_mozprofile.VeftP1R7tbi4"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1550112389205	Marionette	INFO	Listening on port 3244
+1550112389695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://172.30.197.152:38080/ucas/js/jquery.js, line 19: unreachable code after return statement
+1550112430539	Marionette	INFO	New connections will no longer be accepted

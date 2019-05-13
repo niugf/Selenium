@@ -1,0 +1,79 @@
+2019-04-23 11:49:03,597 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-23 11:49:08,354 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:49:12,664 - framework - INFO - 集中预约开始正常
+2019-04-23 11:49:12,664 - framework - INFO - 开始调用登陆方法
+2019-04-23 11:49:17,539 - framework - INFO - 质检开始正常
+2019-04-23 11:49:30,999 - framework - INFO - 施工调度系统登录失败验证正常
+2019-04-23 11:49:37,504 - framework - INFO - 工单查询正常
+2019-04-23 11:49:42,519 - framework - INFO - 原因日报正常
+2019-04-23 11:50:12,475 - framework - INFO - 终端管理系统登录正常
+2019-04-23 11:50:14,476 - framework - INFO - 终端管理系统登录验证正常
+2019-04-23 11:50:19,610 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-23 11:50:43,947 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-23 11:50:49,173 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:50:53,863 - framework - INFO - 集中预约开始正常
+2019-04-23 11:50:53,864 - framework - INFO - 开始调用登陆方法
+2019-04-23 11:50:59,168 - framework - INFO - 质检开始正常
+2019-04-23 11:51:12,971 - framework - INFO - 施工调度系统登录失败验证正常
+2019-04-23 11:51:19,376 - framework - INFO - 工单查询正常
+2019-04-23 11:51:24,368 - framework - INFO - 原因日报正常
+2019-04-23 11:52:19,820 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-23 11:52:30,041 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:52:34,486 - framework - INFO - 集中预约开始正常
+2019-04-23 11:52:34,487 - framework - INFO - 开始调用登陆方法
+2019-04-23 11:52:40,043 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:52:40,043 - framework - INFO - 开始调用登陆完成
+2019-04-23 11:52:51,225 - framework - INFO - 集中预约验证正常
+2019-04-23 11:52:55,575 - framework - INFO - 质检开始正常
+2019-04-23 11:53:01,124 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:53:07,759 - framework - INFO - 集中质检验证正常
+2019-04-23 11:53:17,692 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:53:26,203 - framework - INFO - 施工调度系统登录失败验证正常
+2019-04-23 11:53:33,202 - framework - INFO - 工单查询正常
+2019-04-23 11:53:38,706 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:54:10,709 - framework - INFO - 工单查询正常
+2019-04-23 11:54:15,061 - framework - INFO - 原因日报正常
+2019-04-23 11:54:20,551 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:54:28,261 - framework - INFO - 工单查询正常
+2019-04-23 11:54:38,093 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:54:45,748 - framework - INFO - 工单查询正常
+2019-04-23 11:54:55,863 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:55:03,487 - framework - INFO - 工单查询正常
+2019-04-23 11:55:13,424 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:55:21,100 - framework - INFO - 工单查询正常
+2019-04-23 11:55:30,904 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:55:38,667 - framework - INFO - 工单查询正常
+2019-04-23 11:55:47,094 - framework - INFO - 终端管理系统登录正常
+2019-04-23 11:55:49,096 - framework - INFO - 终端管理系统登录验证正常
+2019-04-23 11:55:54,449 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-23 11:56:18,062 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-23 11:56:22,841 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:56:27,087 - framework - INFO - 集中预约开始正常
+2019-04-23 11:56:27,087 - framework - INFO - 开始调用登陆方法
+2019-04-23 11:56:32,623 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:56:32,623 - framework - INFO - 开始调用登陆完成
+2019-04-23 11:56:43,565 - framework - INFO - 集中预约验证正常
+2019-04-23 11:56:48,507 - framework - INFO - 质检开始正常
+2019-04-23 11:56:54,333 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:57:01,362 - framework - INFO - 集中质检验证正常
+2019-04-23 11:57:11,584 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:57:19,548 - framework - INFO - 施工调度系统登录失败验证正常
+2019-04-23 11:57:26,043 - framework - INFO - 工单查询正常
+2019-04-23 11:57:31,396 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:57:58,217 - framework - INFO - 工单查询正常
+2019-04-23 11:58:02,810 - framework - INFO - 原因日报正常
+2019-04-23 11:58:08,321 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:58:16,019 - framework - INFO - 工单查询正常
+2019-04-23 11:58:25,819 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:58:33,572 - framework - INFO - 工单查询正常
+2019-04-23 11:58:43,377 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:58:51,108 - framework - INFO - 工单查询正常
+2019-04-23 11:59:01,042 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:59:08,673 - framework - INFO - 工单查询正常
+2019-04-23 11:59:18,659 - framework - INFO - 施工调度系统登录正常
+2019-04-23 11:59:26,362 - framework - INFO - 工单查询正常
+2019-04-23 11:59:34,820 - framework - INFO - 终端管理系统登录正常
+2019-04-23 11:59:36,820 - framework - INFO - 终端管理系统登录验证正常
+2019-04-23 11:59:41,948 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-23 16:30:10,443 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-04-23 16:30:15,471 - framework - INFO - 施工调度系统登录正常

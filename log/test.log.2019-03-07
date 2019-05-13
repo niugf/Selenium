@@ -1,0 +1,14 @@
+2019-03-07 17:42:25,891 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-03-07 17:42:30,710 - framework - INFO - 施工调度系统登录正常
+2019-03-07 17:42:35,470 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-03-07 17:42:40,212 - framework - INFO - 施工调度系统登录正常
+2019-03-07 17:42:50,982 - framework - INFO - 集中预约验证正常
+2019-03-07 17:42:55,628 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-03-07 17:43:00,225 - framework - INFO - 施工调度系统登录正常
+2019-03-07 17:43:06,383 - framework - INFO - 集中质检验证正常
+2019-03-07 17:43:11,121 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-03-07 17:43:15,742 - framework - INFO - 施工调度系统登录正常
+2019-03-07 17:43:22,815 - framework - INFO - 施工调度系统登录失败验证正常
+2019-03-07 17:43:29,451 - framework - INFO - [{'account': 'jiake_new', 'pwd': 'tesaaa'}, {'account': 'shiran', 'pwd': 'aaa,1234'}]
+2019-03-07 17:43:34,121 - framework - INFO - 施工调度系统登录正常
+2019-03-07 17:44:00,821 - framework - INFO - 工单查询正常

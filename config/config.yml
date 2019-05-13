@@ -1,0 +1,14 @@
+
+URL: http://10.4.61.80:6100/wfm/
+URLX: http://10.224.129.247:5500/oService/plugins/main/index/login.ilf
+URLY: http://10.4.149.79:9701/qxgl/CtrlUser?action=login&surl=IndexFrame.jsp&furl=LoginError.jsp
+URLZ: http://10.4.61.80:6200/wfm/
+URLA: http://10.4.149.17:8010/cas/login?service=http%3A%2F%2F10.4.149.17%3A8010%2Fbjyd%2Fportlets%2Flogin%2Findex.jsp
+EMOSURL : http://172.30.197.152:8080/arsys
+
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
